@@ -73,9 +73,9 @@ and enclosed it in a div giving classes wherever it was required
 
 * and for this purpose and for heading of the app I created a folder inside src which contained the files Articles.js and Header.js
 
-* __*Articles.js basically publishes heading of articles as an h3 tag and when we click on them, they open on original reddit website__*
+* __*Articles.js basically publishes heading of articles as an h3 tag and when we click on them, they open on original reddit website*__
 
-* __*Header.js just contain the header of the app__*
+* __*Header.js just contain the header of the app*__
 
 * Edited index.css to style everything to make them look better
 
