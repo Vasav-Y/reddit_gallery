@@ -11,8 +11,6 @@
 
 * And a _**subreddit**_ is a forum dedicated to a specific topic on _**Reddit**_
 
-* As I have never before created an app and in the task information it was given that javascript or a similar language that can run in browser universally can be used so I went on google and searched how to create apps using js
-
 ## Tools Used:
 
 ### React:
@@ -30,6 +28,8 @@
 
 ### HTML and CSS
 
+## The Process: 
+* As I have never before created an app and in the task information it was given that javascript or a similar language that can run in browser universally can be used so I went on google and searched how to create apps using js
 
 * And then I read some articles and saw some Youtube videos of how to create simple apps using React
 
@@ -37,7 +37,23 @@
 
 * So I started reading React tutorials from W3schools.com [here is the link](https://www.w3schools.com/react/)
 
-* And while doing that I had to read 
+* And while doing that I had to read about :
+
+* how to import and export libraries and script in javascript
+
+* using the render function : ReactDOM.render() function,he purpose of the function is to display the specified HTML code inside the specified HTML element
+
+* JavaScript functions : a block of code designed to perform a particular task
+
+* Javascript arrays 
+
+* use of fetch() to fetch the data from the server, in my case the link given in the Materials section of the task
+
+
+
+
+
+
 
 
 
