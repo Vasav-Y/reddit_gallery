@@ -1,5 +1,5 @@
-##This Repository contains the task for the selection round of KOSS
+## This Repository contains the task for the selection round of KOSS
 
-###r/pics subreddit
+### r/pics subreddit
 
-*This is made using html, css and the react library of javascript
+* This is made using html, css and the react library of javascript
