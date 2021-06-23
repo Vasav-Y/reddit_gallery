@@ -47,7 +47,39 @@
 
 * Javascript arrays 
 
-* use of fetch() to fetch the data from the server, in my case the link given in the Materials section of the task
+* use of fetch() to fetch the data from the server, in my case the [link](https://www.reddit.com/r/pics.json) given in the Materials section of the task
+
+* And then finally started to code, but before that creating app using react for that
+
+* open command prompt
+* type npx create-react-app reddit-gallery
+* after sometime the folder will be created with the name "reddit-gallery" 
+* though this process will take some time as libraries like react, react-dom and react-scripts with cra-template gets installed
+* after that type -> cd reddit-gallery/
+* also type -> npm start 
+* so that npm can begin the process to make a development server available for our React application
+
+* open the text editor and delete unnecessary files like App.css, App.test.js, logo.svg
+
+* __*Finally started to code*__
+
+* created a function named App and then started what this will return , so I created a header with a paragraph tag
+and also added a heading with h4 tag
+and enclosed it in a div giving classes wherever it was required
+
+* imported useState and useEffect
+* then created a constat and an empty array 
+* basically what I was trying that my function should take input from the server about the information of articles in the subreddit r/pics 
+
+* and for this purpose and for heading of the app I created a folder inside src which contained the files Articles.js and Header.js
+
+* Articles.js basically publishes heading of articles as an h3 tag and when we click on them, they open on original reddit website
+
+* Header.js just contain the header of the app
+
+* Edited index.css to style everything to make them look better
+
+
 
 
 

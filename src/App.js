@@ -4,7 +4,6 @@ import Article from './components/Article';
 
 function App() {
   const [articles, setArticles] = useState([]);
-  const [subreddit, setSubreddit] = useState('webdev');
   useEffect(() => {
     fetch("https://www.reddit.com/r/pics.json").then(
       res => {
