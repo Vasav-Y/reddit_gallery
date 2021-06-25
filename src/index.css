@@ -20,7 +20,13 @@ header {
   font-weight: 500;
   padding-top:0.5rem;
   padding-bottom:0.5rem;
+}
 
+.h4 :hover
+{
+  animation-name: visibility;
+  animation-duration:2s;
+  animation-timing-function: ease-out;
 }
 
 header .subreddit_input {
@@ -41,6 +47,7 @@ header .subreddit_input {
 
 .articles article {
   padding: 30px 15px;
+  font-size: 35px;
   background-color: #FFF;
   color: #212121;
 }
@@ -62,5 +69,37 @@ header .subreddit_input {
 }
 
 .articles article:hover h3 {
-  color: rgb(255, 255, 255);
-} 
+  color: #FFF;
+}
+
+.image figure a img
+{
+  margin: auto;
+  height:30%;
+  width: 30%;
+}
+
+.image figure a img:hover
+{
+  margin: auto;
+  height:30%;
+  width: 30%;
+  animation-name: visibility;
+  animation-duration:2.5s;
+  animation-timing-function: ease-out;
+}
+
+@keyframes visibility{
+  0%{
+    opacity:0;
+  }
+  25%{
+    opacity:.25;
+  }
+  75%{
+    opacity:.75;
+  }
+  100%{
+    opacity:1;
+  }
+}

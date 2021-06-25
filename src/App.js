@@ -17,7 +17,7 @@ function App() {
         });
       }
     )
-  }, [subreddit]);
+  });
 
   return (
     <div className="App">
