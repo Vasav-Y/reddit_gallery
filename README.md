@@ -2,7 +2,7 @@
 
 ### r/pics subreddit
 
-* This is made using html, css and the react library of javascript
+* This is made using HTML, CSS and the React library of JavaScript
 
 * This app shows the articles along with their respectives images from the _**r/pics subreddit of the Reddit**_
 
