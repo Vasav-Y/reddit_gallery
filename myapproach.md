@@ -17,6 +17,10 @@
 * It is an open-source front-end JavaScript library for building _**user interfaces or UI**_ components.
 * It is maintained by **Facebook** and a community of individual developers and companies.
 
+### JSON:
+* JSON stands for the JavaScript Object Notation 
+* It is a lightweight format for storing and transporting data
+
 ### npm:
 * It is a package manager for the JavaScript programming language
 * npm is the world's largest Software Registry.
@@ -31,7 +35,9 @@
 ## The Process: 
 * As I have never before created an app and in the task information it was given that javascript or a similar language that can run in browser universally can be used so I went on google and searched how to create apps using js
 
-* And then I read some articles and saw some Youtube videos of how to create simple apps using React
+* One more reason for using _**JavaScript**_ was that material given to me was in _**json**_ file format so if I use any other language then I'll have to convert from json format to the format of objects of that language, though there are libraries available for that like _**GSON**_, _**JACKSON**_ but it will be easier to use JavaScript itself
+
+* And then I read some articles and saw some YouTube videos of how to create simple apps using React
 
 * And while doing that I realised that React is bit different from the languages which I know(C, Python) 
 
@@ -41,7 +47,7 @@
 
 * how to import and export libraries and script in javascript
 
-* using the render function : ReactDOM.render() function,he purpose of the function is to display the specified HTML code inside the specified HTML element
+* using the render function : ReactDOM.render() function, the purpose of the function is to display the specified HTML code inside the specified HTML element
 
 * JavaScript functions : a block of code designed to perform a particular task
 
@@ -71,13 +77,17 @@ and enclosed it in a div giving classes wherever it was required
 * then created a constant and an empty array 
 * __*basically what I was trying that my function should take input from the server about the information of articles in the subreddit r/pics*__
 
-* and for this purpose and for heading of the app I created a folder inside src which contained the files Articles.js and Header.js
+* and for this purpose of the app I created a folder inside src which contained the file Articles.js
 
-* __*Articles.js basically publishes heading of articles as an h3 tag and when we click on them, they open on original reddit website*__
+* __*Articles.js basically publishes heading of articles as an h3 tag and img associated with that article and when we click on the heading of the article, they open on original reddit website as the value of target in the anchor tag is set to '_blank'*__
 
-* __*Header.js just contain the header of the app*__
 
-* Edited index.css to style everything to make them look better
+* Edited index.css to style and beautify everything so that **_Ayush likes the app_**
+
+### *This is how the app looks*
+
+![image1](screenshots/1.png)
+![image2](screenshots/2.png)
 
 
 
