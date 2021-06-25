@@ -84,11 +84,11 @@ and enclosed it in a div giving classes wherever it was required
 
 * Edited index.css to style and beautify everything so that **_Ayush likes the app_**
 
-### *This is how the app looks*
+## *This is how the app looks*
 
 ![image1](screenshots/1.png)
 
-### On hovering to an article :
+### Hovering to an article :
 
 ![image2](screenshots/2.png)
 ![image3](screenshots/3.png)
